@@ -20,27 +20,45 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 
 ## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
 
-### Network
-<div>
-    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
-</div>
+# 🛡️ SOC Analyst Toolkit: Microsoft Sentinel & Defender XDR
 
-### Endpoint
-<div>
-    <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
-</div>
+This repository showcases the tools and techniques I use as a Security Operations Center (SOC) Analyst for incident investigation, triage, and threat hunting using Microsoft Sentinel and Microsoft Defender XDR.
 
-### SIEM
-<div>
-    <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
-</div>
+## 🔍 Microsoft Sentinel (SIEM)
+
+### [Microsoft Sentinel](https://learn.microsoft.com/en-us/azure/sentinel/overview)
+Cloud-native SIEM platform for log collection, detection rule creation, visualization, and incident management.
+
+### [Kusto Query Language (KQL)](https://learn.microsoft.com/en-us/azure/data-explorer/kusto/query/)
+Powerful query language used in Sentinel to explore and analyze telemetry data.
+
+### [Sentinel Analytics Rules](https://learn.microsoft.com/en-us/azure/sentinel/tutorial-detect-threats-custom)
+Create custom detection logic to identify threats and generate incidents.
+
+### [Workbooks & Dashboards](https://learn.microsoft.com/en-us/azure/sentinel/tutorial-monitor-your-data)
+Visualize key metrics, trends, and threat data for investigation and monitoring.
+
+### [Threat Hunting in Sentinel](https://learn.microsoft.com/en-us/azure/sentinel/hunting)
+Perform proactive threat hunts with custom queries and saved hunting rules.
+
+## 🛡️ Microsoft Defender XDR (Extended Detection & Response)
+
+### [Microsoft Defender XDR](https://learn.microsoft.com/en-us/microsoft-365/security/defender/microsoft-365-defender?view=o365-worldwide)
+Unified XDR platform combining telemetry from endpoints, email, identities, and cloud apps.
+
+### [Defender for Endpoint](https://learn.microsoft.com/en-us/microsoft-365/security/defender-endpoint/microsoft-defender-endpoint?view=o365-worldwide)
+Endpoint detection, automated investigation, live response, and behavioral analysis.
+
+### [Defender for Identity](https://learn.microsoft.com/en-us/defender-for-identity/what-is)
+Detects identity-based attacks in hybrid environments (e.g., pass-the-hash, lateral movement).
+
+### [Defender for Cloud Apps (MCAS)](https://learn.microsoft.com/en-us/defender-cloud-apps/what-is-defender-for-cloud-apps)
+Cloud Access Security Broker (CASB) for monitoring and controlling SaaS application usage.
+
+### [Advanced Hunting](https://learn.microsoft.com/en-us/microsoft-365/security/defender/advanced-hunting-overview?view=o365-worldwide)
+Cross-platform threat hunting using KQL across all Defender components.
+
 
 ## Certifications
 [Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
