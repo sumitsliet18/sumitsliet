@@ -60,15 +60,32 @@ Cloud Access Security Broker (CASB) for monitoring and controlling SaaS applicat
 Cross-platform threat hunting using KQL across all Defender components.
 
 
-## Certifications
-[Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
-<div>
-<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-CDSA-006400?&style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" />
-</div>
 
-## Work Experience
-- SOC Analyst
+## 📜 Certifications 
+This repository documents the Microsoft certifications I have earned in the fields of cloud fundamentals, security operations, and AI solutions. Each certification demonstrates my skills and commitment to building secure, scalable, and intelligent solutions using Microsoft technologies.
+## ✅ Certifications Earned
+
+### ☁️ [AZ-900: Microsoft Azure Fundamentals](https://learn.microsoft.com/en-us/certifications/azure-fundamentals/)
+- **Overview**: Validates foundational knowledge of cloud services and how they are provided with Microsoft Azure.
+- **Skills Covered**:
+  - Cloud concepts (IaaS, PaaS, SaaS)
+  - Core Azure services (compute, storage, networking)
+  - Azure pricing and SLAs
+  - Identity, governance, privacy, and compliance
+
+### 🛡️ [SC-200: Microsoft Certified Security Operations Analyst Associate](https://learn.microsoft.com/en-us/certifications/security-operations-analyst/)
+- **Overview**: Focused on threat detection, response, and investigation using Microsoft Sentinel and Defender XDR.
+- **Skills Covered**:
+  - Mitigating threats with Microsoft 365 Defender
+  - Investigating and responding to threats using Microsoft Sentinel
+  - Performing proactive threat hunting
+  - Using Kusto Query Language (KQL) for data analysis
+
+### 🤖 [AI-102: Designing and Implementing an Azure AI Solution](https://learn.microsoft.com/en-us/certifications/azure-ai-engineer/)
+- **Overview**: Validates the ability to design and implement AI solutions using Microsoft Azure services.
+- **Skills Covered**:
+  - Azure AI services (Cognitive Services, Azure OpenAI, Language, Vision, and Speech APIs)
+  - Conversational AI and bot design
+  - Responsible AI principles
+  - Integrating AI into existing applications
+
