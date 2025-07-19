@@ -1,22 +1,22 @@
 # Hello, I'm SUMIT KUMAR
 <a href="https://www.linkedin.com/in/sumit-kumar-21august/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-[Brief Introduction - Remove this afterwards]
+
 
 I hold a B.E. in Computer Science and Engineering, with strong passion for technology and a commitment to solving complex problems through innovative and efficient solutions. 
 
 ## Objective
-[Provide Objective - Remove this afterwards]]
+
 
 My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
 
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
-| Skill                                         | Company          |
+
+| Category                                      | Skills                     |
 |-----------------------------------------------|----------------------------|
-| SOC Analyst                                   | Microsoft                  |
-| Senior SOC Analyst                            | EY                         |
+| SIEM (Microsoft Sentinel)                     | Log collection and correlation, KQL, Analytics rules & Alerts, Custom                                                       dashboard & workbook, Logic Apps & Playbook automatiom |
+| XDR (Microsoft Defender                       | EDR, Threat & Vulnerablity Management, Email Identity and collaboration                                                     Security, Advance hunting, Attack surface reducation   |
 
 
 ## Tools
